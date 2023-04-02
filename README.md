@@ -11,13 +11,13 @@
 			border-radius: 5px;
 			overflow-x: auto;
 		}
-	</style>
+	
 </head>
 <body>
 	<h1>Formatador de código Java</h1>
 
 	<p>
-	< h1 > lang = "pt-br" < /h1>
+	 "pt-br" < /h1>
 public class ProgramadorAnalista {
 
   public static void main(String[] args) {
@@ -49,7 +49,8 @@ public class ProgramadorAnalista {
 }
 
 
- <h1>lang="en-US"</h1 > public class ProgrammerAnalyst {
+ lang="en-US"
+  public class ProgrammerAnalyst {
 
   public static void main(String[] args) {
     String name = "Jerfeson";
