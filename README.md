@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Jerfeson Devs</title>
-		pre.language-java {
-			font-family: Consolas, monospace;
-			font-size: 16px;
-			color: #333;
-			background-color: #f7f7f7;
-			padding: 10px;
-			border-radius: 5px;
-			overflow-x: auto;
-		}
-	
-</head>
-<body>
-	<h1>Formatador de código Java</h1>
-
-	<p>
-         <code>
-	 "pt-br" 
+</code>
+   "pt-br" 
 public class ProgramadorAnalista {
 
   public static void main(String[] args) {
@@ -80,28 +61,5 @@ public class ProgramadorAnalista {
     System.out.println("I believe that technology is a powerful tool to help companies and organizations achieve their goals.");
   }
 }
-	
-	
-	</code>
-	
-	</p>
-
-	<textarea id="codigo" rows="10" cols="50"></textarea>
-
-	<button onclick="formatar()">Formatar</button>
-
-	<br><br>
-
-	<h2>Resultado:</h2>
-
-	<pre id="resultado" class="language-java"></pre>
-
-	<script>
-		function formatar() {
-			var codigo = document.getElementById("codigo").value;
-			document.getElementById("resultado").innerHTML = codigo;
-			hljs.highlightAll();
-		}
-	</script>
-</body>
-</html>
+  
+</code>
