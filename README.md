@@ -1,4 +1,4 @@
- *public class ProgramadorAnalista* {
+ public class ProgramadorAnalista {
 
   public static void main(String[] args) {
     String nome = "Jerfeson";
