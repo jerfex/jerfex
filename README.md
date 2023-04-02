@@ -1,4 +1,7 @@
- public class ProgramadorAnalista {
+
+<html lang="pt-br">
+
+public class ProgramadorAnalista {
 
   public static void main(String[] args) {
     String nome = "Jerfeson";
@@ -26,4 +29,36 @@
     }
     System.out.println("Acredito que a tecnologia é uma ferramenta poderosa para ajudar as empresas e organizações a alcançarem seus objetivos.");
   }
+}
+
+
+<html lang="en-US">
+public class ProgrammerAnalyst {
+
+public static void main(String[] args) {
+String name = "Jerfeson";
+String education = "Systems Analysis";
+boolean experience = true;
+boolean ETLknowledge = true;
+String[] skills = {
+"UX",
+"Design",
+"Java",
+"Shell script",
+"HTML5",
+"CSS3",
+"Android",
+"Flutter",
+"DevOps",
+"ETL"
+};
+
+System.out.println("Hello, I'm " + name + ", a programmer and systems analyst graduated in " + education + ". I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration.");
+System.out.println("I always seek to update myself on the new market trends and technologies to offer the best solutions to my clients and projects.");
+System.out.println("My skills include:");
+for (String skill: skills) {
+  System.out.println("#" + skill);
+}
+System.out.println("I believe that technology is a powerful tool to help companies and organizations achieve their goals.");
+}
 }
