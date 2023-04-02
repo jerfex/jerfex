@@ -17,6 +17,7 @@
 	<h1>Formatador de código Java</h1>
 
 	<p>
+         <code>
 	 "pt-br" 
 public class ProgramadorAnalista {
 
@@ -81,7 +82,7 @@ public class ProgramadorAnalista {
 }
 	
 	
-	
+	</code>
 	
 	</p>
 
