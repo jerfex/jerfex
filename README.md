@@ -17,7 +17,7 @@
 	<h1>Formatador de código Java</h1>
 
 	<p>
-	 "pt-br" < /h1>
+	 "pt-br" 
 public class ProgramadorAnalista {
 
   public static void main(String[] args) {
