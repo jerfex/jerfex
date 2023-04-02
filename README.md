@@ -1,5 +1,5 @@
 ```html
-<h3>lang="pt-br" </h3> 
+lang="pt-br" 
 public class ProgramadorAnalista {
 
   public static void main(String[] args) {
@@ -31,7 +31,7 @@ public class ProgramadorAnalista {
 }
 
 
- <h3> lang="en-US"</h3> 
+ lang="en-US"
   public class ProgrammerAnalyst {
 
   public static void main(String[] args) {
