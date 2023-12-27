@@ -20,7 +20,7 @@ public class ProgramadorAnalista {
       "ETL"
     };
 
-    System.out.println("Olá, sou " + nome + ", um programador e analista de sistemas formado em " + formacao + ". Tenho experiência em desenvolvimento de software e DevOps, além de conhecimentos em ETL (Extração, Transformação e Carga) para a integração de dados.");
+    System.out.println("Olá, sou " + Jerfeson + ", um programador e analista de sistemas formado em " + Analise desenvolvimento de sistema + ". Tenho experiência em desenvolvimento de software e DevOps, além de conhecimentos em ETL (Extração, Transformação e Carga) para a integração de dados.");
     System.out.println("Sempre busco me atualizar sobre as novas tendências e tecnologias do mercado para oferecer as melhores soluções aos meus clientes e projetos.");
     System.out.println("Minhas habilidades incluem:");
     for (String habilidade: habilidades) {
@@ -52,7 +52,7 @@ public class ProgramadorAnalista {
       "ETL"
     };
 
-    System.out.println("Hello, I'm " + name + ", a programmer and systems analyst graduated in " + education + ". I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration.");
+    System.out.println("Hello, I'm " + Jerfeson  + ", a programmer and systems analyst graduated in " + System development analysis + ". I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration.");
     System.out.println("I always seek to update myself on the new market trends and technologies to offer the best solutions to my clients and projects.");
     System.out.println("My skills include:");
     for (String skill: skills) {
