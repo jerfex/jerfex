@@ -1,36 +1,3 @@
-```html
-lang="pt-br" 
-public class ProgramadorAnalista {
-
-  public static void main(String[] args) {
-    String nome = "Jerfeson";
-    String formacao = "Análise de Sistemas";
-    boolean experiencia = true;
-    boolean conhecimentosETL = true;
-    String[] habilidades = {
-      "UX",
-      "Design",
-      "Java",
-      "Shell script",
-      "HTML5",
-      "CSS3",
-      "Android",
-      "Flutter",
-      "DevOps",
-      "ETL"
-    };
-
-    System.out.println("Olá, sou " + Jerfeson + ", um programador e analista de sistemas formado em " + Analise desenvolvimento de sistema + ". Tenho experiência em desenvolvimento de software e DevOps, além de conhecimentos em ETL (Extração, Transformação e Carga) para a integração de dados.");
-    System.out.println("Sempre busco me atualizar sobre as novas tendências e tecnologias do mercado para oferecer as melhores soluções aos meus clientes e projetos.");
-    System.out.println("Minhas habilidades incluem:");
-    for (String habilidade: habilidades) {
-      System.out.println("#" + habilidade);
-    }
-    System.out.println("Acredito que a tecnologia é uma ferramenta poderosa para ajudar as empresas e organizações a alcançarem seus objetivos.");
-  }
-}
-
-
  lang="en-US"
   public class ProgrammerAnalyst {
 
@@ -40,8 +7,6 @@ public class ProgramadorAnalista {
     boolean experience = true;
     boolean ETLknowledge = true;
     String[] skills = {
-      "UX",
-      "Design",
       "Java",
       "Shell script",
       "HTML5",
@@ -52,14 +17,8 @@ public class ProgramadorAnalista {
       "ETL"
     };
 
-    System.out.println("Hello, I'm " + Jerfeson  + ", a programmer and systems analyst graduated in " + System development analysis + ". I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration.");
-    System.out.println("I always seek to update myself on the new market trends and technologies to offer the best solutions to my clients and projects.");
-    System.out.println("My skills include:");
-    for (String skill: skills) {
-      System.out.println("#" + skill);
-    }
-    System.out.println("I believe that technology is a powerful tool to help companies and organizations achieve their goals.");
-  }
-}
-  
+System.out.println("Hello, I am " + Jerfeson + ", a programmer and systems analyst graduated in " + Systems Development Analysis + ". I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I am a Java web programmer and native Android programmer using the Java language.");
+System.out.println("I always seek to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.");
+
+System.out.println("I believe that technology is a powerful tool to help companies and organizations achieve their goals.");
 
