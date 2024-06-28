@@ -4,23 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programmer Analyst Introduction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
+
     <h1>Programmer Analyst Introduction</h1>
 
     <p>Hello, I am Jerfeson, a programmer and systems analyst graduated in Systems Analysis. I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I am a Java web programmer and native Android programmer using the Java language.</p>
