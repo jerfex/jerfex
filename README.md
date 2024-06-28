@@ -1,27 +1,48 @@
-html
-´´´
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programmer Analyst Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Programmer Analyst Introduction</h1>
 
- lang="en-US"
-  public class ProgrammerAnalyst {
+    <p>Hello, I am Jerfeson, a programmer and systems analyst graduated in Systems Analysis. I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I am a Java web programmer and native Android programmer using the Java language.</p>
 
-  public static void main(String[] args) {
-    String name = "Jerfeson";
-    String education = "Systems Analysis";
-    boolean experience = true;
-    boolean ETLknowledge = true;
-    String[] skills = {
-      "Java",
-      "Shell script",
-      "HTML5",
-      "CSS3",
-      "Android",
-      "Flutter",
-      "DevOps",
-      "ETL"
-    };
+    <p>I always seek to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.</p>
 
-System.out.println("Hello, I am " + Jerfeson + ", a programmer and systems analyst graduated in " + Systems Development Analysis + ". I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I am a Java web programmer and native Android programmer using the Java language.");
-System.out.println("I always seek to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.");
+    <p>I believe that technology is a powerful tool to help companies and organizations achieve their goals.</p>
 
-System.out.println("I believe that technology is a powerful tool to help companies and organizations achieve their goals.");
+    <h2>Skills:</h2>
+    <ul>
+        <li>Java</li>
+        <li>Shell script</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Android</li>
+        <li>Flutter</li>
+        <li>DevOps</li>
+        <li>ETL</li>
+    </ul>
 
+    <script>
+        console.log("This is just an example, no script running here.");
+    </script>
+</body>
+</html>
