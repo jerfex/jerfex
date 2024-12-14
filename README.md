@@ -10,7 +10,7 @@
 
     <p>Hello, I am Jerfeson, a programmer and systems analyst graduated in Systems Analysis. I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I specialize in Java web development using Spring Boot, and I am also a native Android programmer using the Java language.</p>
 
-    <p>I hold a postgraduate degree in Web and Mobile Development - Full Stack from UFG. I am skilled in creating modern applications with frameworks like PrimeFaces and integrating systems with Docker and relational databases (e.g., PostgreSQL). My focus is to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.</p>
+    <p>I hold a postgraduate degree in Web and Mobile Development - Full Stack from UFG. My focus is to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.</p>
 
     <p>I believe that technology is a powerful tool to help companies and organizations achieve their goals efficiently and effectively.</p>
 
