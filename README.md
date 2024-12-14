@@ -4,29 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programmer Analyst Introduction</title>
-
+</head>
+<body>
     <h1>Programmer Analyst Introduction</h1>
 
-    <p>Hello, I am Jerfeson, a programmer and systems analyst graduated in Systems Analysis. I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I am a Java web programmer and native Android programmer using the Java language.</p>
+    <p>Hello, I am Jerfeson, a programmer and systems analyst graduated in Systems Analysis. I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I specialize in Java web development using Spring Boot, and I am also a native Android programmer using the Java language.</p>
 
-    <p>I always seek to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.</p>
+    <p>I hold a postgraduate degree in Web and Mobile Development - Full Stack from UFG. I am skilled in creating modern applications with frameworks like PrimeFaces and integrating systems with Docker and relational databases (e.g., PostgreSQL). My focus is to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.</p>
 
-    <p>I believe that technology is a powerful tool to help companies and organizations achieve their goals.</p>
+    <p>I believe that technology is a powerful tool to help companies and organizations achieve their goals efficiently and effectively.</p>
 
     <h2>Skills:</h2>
     <ul>
-        <li>Java</li>
-        <li>Shell script</li>
+        <li>Java (Spring Boot, Android)</li>
+        <li>PrimeFaces</li>
         <li>HTML5</li>
         <li>CSS3</li>
-        <li>Android</li>
-        <li>Flutter</li>
-        <li>DevOps</li>
+        <li>Shell script</li>
+        <li>Docker</li>
+        <li>PostgreSQL</li>
         <li>ETL</li>
+        <li>DevOps</li>
+        <li>Flutter</li>
     </ul>
 
     <script>
-        console.log("This is just an example, no script running here.");
+        console.log("Welcome to my portfolio!");
     </script>
 </body>
 </html>
