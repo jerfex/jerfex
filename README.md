@@ -3,40 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>About Jerfeson</title>
 </head>
 <body>
-    <h1>Programmer Analyst Introduction</h1>
+    <h1>Hello, I'm Jerfeson!</h1>
 
-   <p>Hello, I am Jerfeson, a programmer and systems analyst graduated in Systems Analysis. I have experience in software development and DevOps, as well as knowledge in ETL (Extraction, Transformation, and Loading) for data integration. I specialize in Java web development using Spring Boot, and I am also a native Android programmer using the Java language.</p>
+    <p>I am a programmer and systems analyst with a degree in Systems Analysis, experienced in Java Web development and DevOps, with additional knowledge in ETL.</p>
 
-<p>I hold a postgraduate degree in Web and Mobile Development - Full Stack from UFG. My focus is to stay updated on the latest market trends and technologies to offer the best solutions to my clients and projects.</p>
+    <p>Currently, I am pursuing a postgraduate degree in Web and Mobile Development - Full Stack at UFG. My goal is to stay updated with the latest market trends and technologies to provide efficient and innovative solutions to my clients and projects.</p>
 
-<p>I believe that technology is a powerful tool to help companies and organizations achieve their goals efficiently and effectively.</p>
+    <h2>Skills</h2>
+    
+    <h3>Languages & Frameworks:</h3>
+    <ul>
+        <li>Java (Spring Boot, Android)</li>
+        <li>PrimeFaces</li>
+        <li>PrimeReact</li>
+        <li>Flutter</li>
+        <li>Shell Script</li>
+        <li>TypeScript</li>
+    </ul>
 
-<h2>Skills:</h2>
-<ul>
-    <li>Java (Spring Boot, Android)</li>
-    <li>PrimeFaces</li>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>Shell Script</li>
-    <li>Docker</li>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>ETL</li>
-    <li>DevOps</li>
-    <li>CI/CD (Jenkins, GitHub Actions)</li>
-    <li>Linux Server Administration</li>
-    <li>Flutter</li>
-    <li>RESTful APIs</li>
-    <li>Git/GitHub/li>
-    <li>RabbitMQ</li>
-</ul>
+    <h3>Front-end:</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
 
+    <h3>Databases:</h3>
+    <ul>
+        <li>PostgreSQL</li>
+        <li>MongoDB</li>
+        <li>Redis</li>
+    </ul>
 
-<script>
-    console.log("Welcome to my portfolio!");
-</script>
+    <h3>DevOps & Infrastructure:</h3>
+    <ul>
+        <li>Docker</li>
+        <li>Proxmox</li>
+        <li>Linux Server Administration</li>
+        <li>ETL</li>
+        <li>CI/CD (Jenkins, GitHub Actions)</li>
+    </ul>
+
+    <h3>APIs & Messaging:</h3>
+    <ul>
+        <li>RESTful APIs</li>
+        <li>RabbitMQ</li>
+    </ul>
+
+    <h3>Version Control:</h3>
+    <ul>
+        <li>Git/GitHub</li>
+    </ul>
+
+    <script>
+        console.log("Welcome to my profile!");
+    </script>
 </body>
 </html>
