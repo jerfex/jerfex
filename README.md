@@ -47,4 +47,4 @@
 <img src="https://img.shields.io/badge/GitFlow-E94E31?style=for-the-badge&logo=git&logoColor=white"/>
 
 **Outras**  
-HTML5 • CSS3 • JPA/Hibernate • Git • GitFlow • CI/CD • Administração de Servidores
+HTML5 • CSS3 • JPA/Hibernate • CI/CD • Administração de Servidores
