@@ -10,6 +10,6 @@
 - **Languages & Frameworks**: Java (Spring Boot, Android), PrimeFaces, PrimeReact, Flutter, Shell Script, TypeScript  
 - **Front-end**: HTML, CSS  
 - **Databases**: PostgreSQL, MongoDB, Redis  
-- **DevOps & Infrastructure**: Docker, Proxmox, Linux Server Administration, ETL, CI/CD (Jenkins, GitHub Actions)  
+- **DevOps & Infrastructure**: Docker, Proxmox, Linux Server Administration, ETL, CI/CD (Jenkins, GitHub Actions, Git-Flow)  
 - **APIs & Messaging**: RESTful APIs, RabbitMQ  
 - **Version Control**: Git/GitHub 
